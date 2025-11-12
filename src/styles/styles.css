@@ -125,6 +125,10 @@ main{
     
 }
 
+.manager p{
+    margin-top: 8px;
+}
+
 .container-manager{
     display: flex;
     gap: 136px;
@@ -140,5 +144,7 @@ main{
     align-items: center;
     text-align: center;
     width: 299px;
-    height: 280px;
+    height: 328px;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.082);
+    padding: 29.5px;
 }

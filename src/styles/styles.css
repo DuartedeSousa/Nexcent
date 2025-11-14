@@ -163,7 +163,7 @@ main{
 }
 
 
-
+/* pellentesque */
 .pellentesque{
     display: flex;
     flex-direction: column;
@@ -186,5 +186,33 @@ main{
     gap: 8px;
     text-decoration: none;
     color: var(--color-neutral-white);
+    
+}
+
+
+/* FOOTER */
+footer{
+    background-color: var(--color-neutral-black);
+}
+
+
+.copryght-container p{
+    color: var(--color-neutral-silver);
+}
+
+.copryght-container h2{
+    color: var(--color-neutral-white);
+}
+
+.foot-container h2{
+    color: var(--color-neutral-white);
+}
+
+.copryght-container a{
+    color: var(--color-neutral-silver);
+}
+
+
+.footer-socials{
     
 }
